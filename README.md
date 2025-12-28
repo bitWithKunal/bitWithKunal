@@ -64,5 +64,5 @@ Professional Python → EXE → Windows Installer automation tool.
 
 ---
 
-## 📫 Connect
+## Connect
 - GitHub: **@bitWithKunal**

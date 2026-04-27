@@ -5,9 +5,9 @@
 
 ---
 
-## 🔬 What I Build
+## What I Build
 
-### ⚡ VLSI / Physical Design Tools
+###  VLSI / Physical Design Tools
 
 | Tool | Description | Status |
 |------|-------------|--------|
@@ -22,7 +22,7 @@
 
 ---
 
-### 🤖 AI & Automation Tools
+###  AI & Automation Tools
 
 | Tool | Description |
 |------|-------------|
@@ -35,7 +35,7 @@
 
 ---
 
-### 🌐 Web Tools — Live & Deployed
+###  Web Tools — Live & Deployed
 
 | Tool | Description | Demo |
 |------|-------------|------|
@@ -47,7 +47,7 @@
 
 ---
 
-## 🧠 Engineering Philosophy
+##  Engineering Philosophy
 
 ```
 Automation over repetition
@@ -58,7 +58,7 @@ Engineer-first UX
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -72,7 +72,7 @@ Engineer-first UX
 
 ---
 
-## ⭐ Featured Repository
+##  Featured Repository
 
 ### [ExeBuilder-Pro](https://github.com/bitWithKunal/ExeBuilder-Pro)
 
@@ -83,11 +83,11 @@ Engineer-first UX
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
-- 📐 Scaling PD automation tools
-- 🤖 AI-assisted engineering utilities
-- 🔄 Turning internal tools into reusable platforms
+-  Scaling PD automation tools
+-  AI-assisted engineering utilities
+-  Turning internal tools into reusable platforms
 
 ---
 

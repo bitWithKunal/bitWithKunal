@@ -33,7 +33,7 @@
 
 ---
 
-## 🔬 VLSI & Physical Design Tools
+##  VLSI & Physical Design Tools
 
 *Tools built from the trenches of 28nm+ physical design flows*
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 🛠 Automation & Build Tools
+##  Automation & Build Tools
 
 *Turning manual engineering workflows into one-click systems*
 
